@@ -1,8 +1,13 @@
-### 🎨 Static Home Page Project
+# 🎨 Static Home Page Project
 Welcome to my first-ever web development project! 🚀 This is a static home page built using HTML and CSS, inspired by a WordPress design. It’s not responsive and could use some polishing, but I’m proud of it as my first solo project. 💪
 
 Check it out live here: [Static Home Page on GitHub Pages](https://magdamie.github.io/staticWebsite/) — but only if you’re on a laptop! It’s not quite ready to charm your phone or your giant screen yet. 😅
 
+## 📸 Preview
+![](page-preview-1.png)  
+![](page-preview-2.png)  
+![](page-preview-3.png) 
+![](page-preview-4.png)  
 
 ## 📚 What I Learned
 - HTML and CSS Fundamentals: Understanding layout structure and basic styling.
